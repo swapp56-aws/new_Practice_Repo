@@ -1,2 +1,4 @@
 server :
+name:db.bank
+server :
  port:8080
